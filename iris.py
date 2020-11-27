@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-import numpy as np #linear algebra
+
 import pandas as pd #data processing, CSV file,etc.
 import seaborn as sns
 import matplotlib.pyplot as plt
